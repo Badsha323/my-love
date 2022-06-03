@@ -74,8 +74,7 @@ Note:- Give a user details
 5. /luck or /cownd - 𝚂𝙿𝙸𝙽 𝙰𝙽𝙳 𝚃𝚁𝚈 𝚈𝙾𝚄𝚁 𝙻𝚄𝙲𝙺"""
     DEPLOY_TXT = """<b>𝙷𝙾𝚆 𝚃𝙾 𝙳𝙴𝙿𝙻𝙾𝚈..?</b> 
   
-<b>✮ Deploy Tutorial ››</b> <i><b>https://youtu.be/kB9TkCs8cX0</b></i>
-
+<b>✮ 
 <b>ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴄʀᴇᴀᴛᴇ ᴀ ʙᴏᴛ ʟɪɴᴋ ᴛʜɪs ʏᴏᴜ ʜᴀᴠᴇ ᴛᴏ ᴘᴀʏ 500ʀs 💸 | ᴏꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛʜᴇ ʙᴏᴛ ʀᴇᴘᴏ ᴛʜᴇɴ ʏᴏᴜ ʜᴀᴠᴇ ᴛᴏ ᴘᴀʏ 1000ʀs 💸✅ | <a href=https://t.me/PAY_FOR_BOTS>𝙱𝙾𝚃 𝚂𝙰𝙻𝙴𝚁</a></b>
 
 <b>𝚂𝙷𝙰𝚁𝙴 𝙰𝙽𝙳 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴</b>
