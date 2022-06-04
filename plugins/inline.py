@@ -92,6 +92,8 @@ def get_reply_markup(query):
     buttons = [
         [
             InlineKeyboardButton('Search again', switch_inline_query_current_chat=query)
+        ],[
+            InlineKeyboardButton('♥️ ɢᴇɴᴇʀᴀᴛᴇ ʟɪɴᴋ ♥️', url='https://t.me/File_To_Link_Autobot')
         ]
         ]
     return InlineKeyboardMarkup(buttons)
