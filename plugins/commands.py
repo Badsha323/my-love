@@ -57,7 +57,7 @@ async def start(client, message):
             InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCFjqpS7MmN42sybrG0Vr0NQ')
         ]]
         reply1 = await query.message.reply_text(
-            text="â–¢â–¢â–¢"
+            text="1"
         )
         await asyncio.sleep(0.5)
         reply2 = await reply1.edit_text(
@@ -127,7 +127,7 @@ async def start(client, message):
             InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCFjqpS7MmN42sybrG0Vr0NQ')
         ]]
         reply1 = await query.message.reply_text(
-            text="â–¢â–¢â–¢"
+            text="1"
         )
         await asyncio.sleep(0.5)
         reply2 = await reply1.edit_text(
