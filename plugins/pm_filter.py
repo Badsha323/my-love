@@ -169,8 +169,7 @@ async def next_page(bot, query):
 
     if not files:
         return
-     search_msg = await message.reply_sticker(sticker='CAACAgIAAxkBAAEE-d1ipaeEBQABkYqzvvZYJL56zS218NcAAuUAA1advQoICxZklQXRiiQE')
-    settings = await get_settings(query.message.chat.id)
+         settings = await get_settings(query.message.chat.id)
     if settings['button']:
         btn = [
             [
